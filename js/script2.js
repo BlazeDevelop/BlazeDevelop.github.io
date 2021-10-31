@@ -15,7 +15,7 @@ function moveToMobile() {
     let navdiv = document.getElementById('navtext-div');
     let navtext = document.getElementById('navtext');
     let logomain = document.getElementById('logo-main-1');
-    let author = document.getElementById('creper92yt')
+    let author = document.getElementById('blazeyt')
     let mainbuttons = document.getElementById('main-buttons');
     let mainbutton2 = document.getElementById('main-button-2')
 
