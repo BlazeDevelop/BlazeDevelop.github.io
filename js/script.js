@@ -17,7 +17,7 @@ function moveToMobile() {
     let closebutton = document.getElementById('closeButton');
     let hamburguer = document.getElementById('hamburguer');
     let logomain = document.getElementById('logo-main-1');
-    let author = document.getElementById('creper92yt')
+    let author = document.getElementById('blazeyt')
     let mainbuttons = document.getElementById('main-buttons');
     let mainbuttons2 = document.getElementById('main-buttons-2');
     let mainbutton2 = document.getElementById('main-button-2')
